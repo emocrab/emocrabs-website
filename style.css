@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(192, 255, 247);
+   font-family: Comic Sans MS, Comic Sans, cursive ;
+   display: grid;
+   place-items: center;
+   height: 50vh;
+   margin: 0;
+  }
+
+h1{
+    color: rgb(139, 153, 153);
+    font-weight: lighter;
+   
+}
+ 
+p{
+    color: black;
+}
+img{
+max-height: 30vh;
+}
