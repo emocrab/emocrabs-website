@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(157, 205, 218);
+   font-family: serif ;
+   display: grid;
+   height: 50vh;
+   margin: 1.5;
+   place-items: center;
+  }
+  
+
+img{
+    width: 40vh;
+    
+}
