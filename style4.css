@@ -1,0 +1,19 @@
+body{
+    font-family: Georgia, serif;
+    font-style: normal;
+  }
+
+  p{
+    font-size: 25px;
+  }
+
+  p2{
+    line-height: 1.5;
+    text-align: justify;
+    text-indent: 2em;
+    word-spacing:0.2em ;
+  }
+
+  p3{
+    text-align: center;
+  }
